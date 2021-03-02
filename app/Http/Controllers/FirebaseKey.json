@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dna-sukses-1634f",
+  "private_key_id": "f85e60f5a4e5051543255b68403460251aa9a0a9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCga/Cj3YuQ0S0x\nmDHfEQhVN0F4K0TWiRh3lN2zwWk4S8sFDjffu+f5zN9ASEJEhH/LitN1PC0h+ipY\noWs1c4D7hL3oC+/jXiIgUibS586gprxFKqru0y7B1nLkezvswgHJNJzmJk2cGusV\nACLPY5wGMVZ8DKlqmtQDiQw5IecM3QF4UJshn2Ok6maXFKLMD1ZP6RLacR6xLGno\n1TDpVguA9iErSttI9wNiav6YRKRPy8bme8B8QmZFO98wmOAXH/sD1kuoBS7b+MzQ\nCO68DhpdB8P6WL5waNp0TRijm+LuVw8xeXQAp4pvOa6iJTdW4eWafVlKSTFpGif0\nLns4IwuXAgMBAAECggEABNNqcEuEXM1mGiVVbrvw77tTTV2j2v5RzZsdVkB9vVNO\nXq8QUDszXcjjeGgUEkKYI5PgC5lNVEXVy0fD1V5NpYNXQSlGxKS6yxUdlN+jUCLj\n7AK+FKQmtm8Qkr4ATf2CFz7tb2D8mbMXmlCgO3PoKCmIy/+Hgyz4LskLJJbYAAOD\nxkFr2fwhyfz+CBslj9vb2iOwhVSjssKZpFae7mK/XMVPvMctDcWTdu55/yWDsmcP\n3p7awiHCXI+gPWpcmAsk3aNid5zJoS4YBaU1tq1WpOwPN3ua4FqFguPH01B0jAx3\n03SRShVV3rwHgLnxEw69vVWAHYRdQIjsc/OPGp+AsQKBgQDXT0wJQ2CIFbYPDx88\nOn6AtNYKSmh0VjAldrVxuMP9n0RrDKmIaKV7g+uObSjkr0vA2CGMBElqdx93GHGr\nmJ4vOFKdQ5Ua0w52lVUSAZMOX+0H+TJqD0IUxBiQaayP1ZcRM3xWNIaJXYWsXm1r\nuGECqEBSNrgDUGGQGywLtdDABwKBgQC+vSbWHd/WJ61cIMTx1RkmX3e2K4JEPbr3\nIL0XKZmu5Mm7j85Wtq9Ag+9QRi5Fxe2lnlPLCCtNLgHQKf6PiBXFuGTT/AFI0r0f\nZsG1qH1XqFnCO1iI+WoNYJGr/N5lqi4vvBp+5+aT2x04xLtDJYHBwny50C1rh2VL\ntOjZDcRT8QKBgCiabKVmjmK7bWzjlilegpK1B5RDOfWOd1/pRghfJp7ClT120tXF\nnkdvtlFSpp6RrEB+wbzM5idstYNZGb6ZdmNDRNkhcJHxcU3NlZBiuZ/BWUripK45\nmGWgIV3Cf+dUCTwWMIF1QFXRTC8YU5w31huRLSgT55nAY9WwOhsvO2GrAoGBAK6q\nLBw7MzS7FMeewnrqN6OqHMfXQ+0V0lZnxoClebRskkeNwtgpZobfypBqFAmU3LCj\nMfxkuLJuhP6I1jG93qI23y44QTzcro9I2+5sIovZAIkbK1IThAhH/F3QrB/RHYZc\n7K510fJn3nSTwyAUAqTaYrkNZ+pmDF6theTt9HEhAoGALmufqyL4PcRo8Wl8whot\nvo7Srb217eCb4PYzbk/RPhsqAG7ufjwCRsNINyVcwgbUIfM3eT225P9EvTDiG8OH\nUy5M/s4UDgOWiit67GX98RrHwSmEONhGL7dgzc99dzWsZ0MJG3qGWoQW+MOY8xEr\no5tIpmX1Df0UBZco65Ngf8c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-s0sns@dna-sukses-1634f.iam.gserviceaccount.com",
+  "client_id": "105996934491239862466",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-s0sns%40dna-sukses-1634f.iam.gserviceaccount.com"
+}
