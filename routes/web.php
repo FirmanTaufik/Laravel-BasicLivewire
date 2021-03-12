@@ -25,6 +25,7 @@ Route::get('/', function () {
 Route::get('/firebase',[App\Http\Controllers\FirebaseController::class, 'index']);
 
 Route::get('/data',[App\Http\Controllers\FirebaseData::class, 'index'] );
+
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');
 })->name('dashboard');

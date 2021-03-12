@@ -16,11 +16,25 @@ class FirebaseData extends Controller
         $factory = (new Factory)->withServiceAccount(__DIR__.'/FirebaseKey.json');
 
         $database = $factory->createDatabase(); 
-        $ref = $database->getReference('Subjects');
+        // $ref = $database->getReference('Subjects');
         // $key = $ref->push()->getKey();
         // $ref->getChild('IdOrder')->set([
         //     'SubjectName' => 'ini test'
         // ]);
-        return $ref;
+
+        $a = $database->getReference('Subjects')->getChildKeys(); 
+        $array =array();
+
+        foreach ($a as $key => $value) { 
+            $w =$database->getReference('Subjects') 
+                ->getChild($value)
+                ->getChild("SubjectName")
+                ->getValue(); 
+
+              array_push($array,array("id" => $value,
+              "subjectName" => $w )  ); 
+        } 
+
+        return  $array;
     }
 }

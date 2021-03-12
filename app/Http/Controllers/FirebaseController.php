@@ -16,7 +16,7 @@ class FirebaseController extends Controller
         $database = $factory->createDatabase(); 
         $ref = $database->getReference('Subjects');
         $key = $ref->push()->getKey();
-        $ref->getChild('IdOrder')->set([
+        $ref->getChild($key)->set([
             'SubjectName' => 'ini test'
         ]);
         return $key;
